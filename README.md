@@ -2,8 +2,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shard-BRAINS/.github/main/profile/brand-mark-dark-bg.png">
-  <img alt="BRAINS" src="https://raw.githubusercontent.com/shard-BRAINS/.github/main/profile/brand-mark-light-bg.png" width="220">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BRAINS-Certified/.github/main/profile/brand-mark-dark-bg.png">
+  <img alt="BRAINS" src="https://raw.githubusercontent.com/BRAINS-Certified/.github/main/profile/brand-mark-light-bg.png" width="220">
 </picture>
 
 # BRAINS template repo
@@ -13,12 +13,12 @@
 
 <br />
 
-[![Status](https://img.shields.io/badge/status-ready-D99518?style=for-the-badge&labelColor=0A0A0A)](https://github.com/shard-BRAINS/BRAINS-template-repo)
-[![Type](https://img.shields.io/badge/type-template-2A8B91?style=for-the-badge&labelColor=0A0A0A)](https://github.com/shard-BRAINS/BRAINS-template-repo/generate)
+[![Status](https://img.shields.io/badge/status-ready-D99518?style=for-the-badge&labelColor=0A0A0A)](https://github.com/BRAINS-Certified/BRAINS-template-repo)
+[![Type](https://img.shields.io/badge/type-template-2A8B91?style=for-the-badge&labelColor=0A0A0A)](https://github.com/BRAINS-Certified/BRAINS-template-repo/generate)
 [![Licence](https://img.shields.io/badge/licence-MIT-0A0A0A?style=for-the-badge&labelColor=D99518)](LICENSE)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0A0A0A)](https://discord.gg/BEmTXXscBr)
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40brainscertified.com-D99518?style=for-the-badge&logo=bluesky&logoColor=FFFFFF&labelColor=0A0A0A)](https://bsky.app/profile/brainscertified.com)
-[![BRAINS](https://img.shields.io/badge/BRAINS-Standards-D99518?style=for-the-badge&labelColor=0A0A0A)](https://github.com/shard-BRAINS)
+[![BRAINS](https://img.shields.io/badge/BRAINS-Standards-D99518?style=for-the-badge&labelColor=0A0A0A)](https://github.com/BRAINS-Certified)
 [![BRAINS Certified Gold](https://img.shields.io/badge/BRAINS%20Certified-Gold-D99518?style=for-the-badge&labelColor=0A0A0A)](CERTIFIED.md)
 
 <br />
@@ -33,7 +33,7 @@ This is the starter for every new BRAINS repo. It ships the checks we run on our
 
 > **Reliable, affirming, inclusive.**
 
-**The BRAINS standard floor for any new repository — [from BRAINS](https://github.com/shard-BRAINS), built by neurodivergent minds, for neurodivergent people.**
+**The BRAINS standard floor for any new repository — [from BRAINS](https://github.com/BRAINS-Certified), built by neurodivergent minds, for neurodivergent people.**
 
 ---
 
