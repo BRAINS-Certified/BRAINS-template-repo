@@ -30,7 +30,7 @@ except ImportError:
 SKIP_MARKER = re.compile(r"<!--\s*readability:\s*skip\s*-->", re.IGNORECASE)
 CODE_FENCE = re.compile(r"```.*?```", re.DOTALL)
 INLINE_CODE = re.compile(r"`[^`]+`")
-LINKS = re.compile(r"\[([^\]]+)\]\([^)]+\)")
+LINKS = re.compile(r"\[([^\]]*)\]\([^)]+\)")
 IMAGES = re.compile(r"!\[[^\]]*\]\([^)]+\)")
 HTML_TAGS = re.compile(r"<[^>]+>")
 HEADERS = re.compile(r"^#+\s+.*$", re.MULTILINE)
