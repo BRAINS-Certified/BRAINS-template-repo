@@ -5,7 +5,7 @@ Two paths. Pick whichever fits.
 ## Path A — New repository
 
 1. From the GitHub UI, click **Use this template → Create a new repository**.
-2. Pick the new owner and name. Keep the `BRAINS-` or `shard-` prefix per the org naming convention.
+2. Pick the new owner and name. Keep the `BRAINS-` prefix per the org naming convention.
 3. After creation, edit `README.md` and replace the `[PROJECT NAME]`, `[ONE-LINE DESCRIPTION]`, and `[OWNER]` placeholders.
 4. In **Settings → Branches**, turn on branch protection for `main`:
    - Require a pull request before merging
